@@ -1,4 +1,7 @@
 function longestName(name1, name2, name3, name4) {
+
+// Hey here is my test code on adding a food function
+// HERE IS MY CODE I LEFT OUT
   name1 = "Carlos";
   name2 = "Mike";
   name3 = "Carlos";
